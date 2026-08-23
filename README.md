@@ -12,7 +12,7 @@ This project documents basic IT troubleshooting steps and solutions for common c
 - Charger is faulty
 - Power button or hardware problem
 
-  ### Troubleshooting Steps
+ ### Troubleshooting Steps
 
   1. Check that the power cable is connected.
   2. If it's a laptop, connect the charger.
